@@ -23,30 +23,30 @@
        </mj-section>
        <mj-section background-color="#e1f0fe"  padding="20px 0">
         <mj-group  width="300px">
-           <mj-column >
+           <mj-column  >
            
-             <mj-image
+             <mj-image 
                      src="https://f.hubspotusercontent10.net/hubfs/20317717/facebook_circle_color.png"
                      alt="Facebook"
-                     width="25px"  ></mj-image>
+                     width="25px" href="https://www.facebook.com/WavinDenmark/" ></mj-image>
            </mj-column>
             <mj-column >
              <mj-image
                      src="https://f.hubspotusercontent10.net/hubfs/20317717/linkedin_circle_color.png"
                      alt="Linkedin"
-                     width="25px"  ></mj-image>
+                     width="25px"  href="https://www.linkedin.com/company/wavin-denmark/"  ></mj-image>
            </mj-column>
               <mj-column >
              <mj-image
                      src="https://f.hubspotusercontent10.net/hubfs/20317717/youtube_circle_color.png"
-                     alt="Facebook"
-                     width="25px"  ></mj-image>
+                     alt="Youtube"
+                     width="25px" href="https://www.youtube.com/user/wavindenmark"  ></mj-image>
            </mj-column>
               <mj-column >
              <mj-image
                      src="https://f.hubspotusercontent10.net/hubfs/20317717/website_circle_color.png"
-                     alt="Facebook"
-                     width="25px"  ></mj-image>
+                     alt="Wavin"
+                     width="25px" href="https://www.wavin.com/da-dk/"  ></mj-image>
            </mj-column>
            </mj-group>
        </mj-section>
