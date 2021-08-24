@@ -5,7 +5,7 @@
     <mj-body>
        
        <mj-section background-color="#e1f0fe"  padding="0">
-           <mj-column width="600px">
+           <mj-column width="600px" >
                 <mj-table width="100%" align="center" >
                     <tr>
                     <td  color="#23496d;" text-align="center" font-size="15px;" font-family="Helvetica,Arial,sans-serif" >
@@ -17,6 +17,29 @@
                    Unsubscribe
                     </td>
                     </tr>
+                </mj-table>
+           </mj-column>
+       </mj-section>
+       <mj-section background-color="#e1f0fe"  padding="0">
+           <mj-column width="600px">
+                <mj-table width="100%" align="center" >
+                    <tr>
+                    <td  color="#23496d;" text-align="center" font-size="15px;" font-family="Helvetica,Arial,sans-serif" >
+                <a><mj-image
+                     src="https://f.hubspotusercontent10.net/hubfs/20317717/facebook_circle_color.png"
+                     alt="Facebook"
+                     width="auto" height="25px" /></a>
+                    </td>
+                    </tr>
+                    <tr>
+                    <td  color="#23496d;" text-align="center" font-size="15px;" font-family="Helvetica,Arial,sans-serif" >
+                <a><mj-image
+                     src="https://f.hubspotusercontent10.net/hubfs/20317717/facebook_circle_color.png"
+                     alt="Facebook"
+                     width="auto" height="25px" /></a>
+                    </td>
+                    </tr>
+                      
                 </mj-table>
            </mj-column>
        </mj-section>
