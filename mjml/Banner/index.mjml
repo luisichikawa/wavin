@@ -1,0 +1,23 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>       
+    </mj-head>
+    <mj-body>
+       <mj-section background-color="#ffffff" padding="20px 0 0 0">
+           <mj-column width="600px">
+                <mj-image src="https://f.hubspotusercontent10.net/hub/20317717/hubfs/Logo-blue-1.png?width=262&upscale=true&name=Logo-blue-1.png" alt="" width="131px" />
+           </mj-column>
+       </mj-section>
+       <mj-section background-color="#ffffff" padding="0">
+           <mj-column width="600px">
+                <mj-table width="100%" align="center">
+                    <tr>
+                    <th style="color:#00a8e1; text-align: right; width:50%; padding-right:10px;">Wavin Tigris K5/M5</th>
+                    <th style="color:#00a8e1; text-align: left; width:50%; padding-left:10px;">Get in contact</th>
+                    </tr>
+                </mj-table>
+           </mj-column>
+       </mj-section>
+    </mj-body>
+
+</mjml>
