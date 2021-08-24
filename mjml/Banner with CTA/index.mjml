@@ -1,0 +1,17 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>       
+    </mj-head>
+    <mj-body>
+       <mj-section background-color="#ffffff" padding="0">
+           <mj-column width="600px">
+                <mj-text padding="0 0 0 40px"font-family="Helvetica, Arial, sans-serif" font-size="22px" color="#23496d" line-height="175%">
+                    Teile, was Du denkst
+                </mj-text>
+           </mj-column>     
+           <mj-column width="600px">
+                <mj-image src="https://f.hubspotusercontent10.net/hub/20317717/hubfs/Wavin-Tigris-test-pack-1.png?width=400&upscale=true&name=Wavin-Tigris-test-pack-1.png" alt="" />
+           </mj-column>       
+       </mj-section>
+    </mj-body>
+</mjml>
