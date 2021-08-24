@@ -1,0 +1,25 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>       
+    </mj-head>
+    <mj-body>
+       
+       <mj-section background-color="#e1f0fe"  padding="0">
+           <mj-column width="600px">
+                <mj-table width="100%" align="center" >
+                    <tr>
+                    <td  color="#23496d;" text-align="center" font-size="15px;" font-family="Helvetica,Arial,sans-serif" >
+                    Wavin B.V., Stationsplein 3, Zwolle, Overijssel 8000AD, Netherlands
+                    </td>
+                    </tr>
+                        <tr>
+                    <td>
+                   Unsubscribe
+                    </td>
+                    </tr>
+                </mj-table>
+           </mj-column>
+       </mj-section>
+    </mj-body>
+
+</mjml>
