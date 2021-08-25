@@ -1,0 +1,13 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>       
+    </mj-head>
+    <mj-body>
+       <mj-section background-color="#ffffff" padding="0">
+           <mj-column width="600px">
+                <mj-image src="https://f.hubspotusercontent10.net/hub/20317717/hubfs/Wavin-Share-contest-results-1.png?width=1200&upscale=true&name=Wavin-Share-contest-results-1.png" alt="" />
+           </mj-column>           
+       </mj-section>
+    </mj-body>
+
+</mjml>
