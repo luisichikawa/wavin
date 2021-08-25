@@ -1,0 +1,17 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>       
+    </mj-head>
+    <mj-body>
+       <mj-section background-color="#ffffff" padding="0">
+           <mj-column width="300px">
+                <mj-image src="https://i.ytimg.com/vi/ye9u6KPbsL4/hqdefault.jpg" alt="" />
+                <mj-text color="#23496d" align="center" line-height="175%" font-size="15px" font-family="Helvetica, Arial, sans-serif">Akustisk lækagealarm</mj-text>
+           </mj-column>     
+           <mj-column width="300px">
+                <mj-image src="https://i.ytimg.com/vi/tXA9I7uhr4I/hqdefault.jpg" alt="" />
+                <mj-text color="#23496d" align="center" line-height="175%" font-size="15px" font-family="Helvetica, Arial, sans-serif">Multijaw</mj-text>
+           </mj-column>       
+       </mj-section>
+    </mj-body>
+</mjml>
