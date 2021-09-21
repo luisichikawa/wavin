@@ -1,0 +1,43 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+    </mj-head>
+    <mj-body>
+        <mj-section background-color="#fff" padding="5px 0">
+            <mj-group width="600px">
+                <mj-column width="100%">
+                    <mj-text font-size="14px" font-family="arial" font-weight="bold" color="#291a7a">
+                        Siguenos en:
+                    </mj-text>
+                </mj-column>                                
+            </mj-group>
+            <mj-group width="550px">
+                <mj-column width="11%" vertical-align="middle">
+                    <mj-image src="" alt="" />
+                </mj-column>     
+                <mj-column width="11%" vertical-align="middle">
+                    <mj-image src="" alt="" />
+                </mj-column>  
+                <mj-column width="11%" vertical-align="middle">
+                    <mj-image src="" alt="" />
+                </mj-column>  
+                <mj-column width="11%" vertical-align="middle">
+                    <mj-image src="" alt="" />
+                </mj-column>  
+                <mj-column width="11%" vertical-align="middle">
+                    <mj-image src="" alt="" />
+                </mj-column> 
+                <mj-column width="45%" vertical-align="middle">
+                    <mj-image src="https://f.hubspotusercontent10.net/hub/20317717/hubfs/PavcoWavin_Vertical_Cor_RGB.jpg?width=2688&height=1490&upscale=true&name=PavcoWavin_Vertical_Cor_RGB.jpg" width="100px" alt="" />
+                </mj-column>              
+            </mj-group>
+            <mj-group width="600px">
+                <mj-column width="100%">
+                    <mj-text font-size="14px" font-family="arial" font-weight="bold" color="#291a7a">
+                        www.pavconwavin.com.br
+                    </mj-text>
+                </mj-column>                                
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>
